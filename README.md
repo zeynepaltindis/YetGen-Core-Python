@@ -1,2 +1,2 @@
-# core-python
+# zeynepaltindis
 deneme

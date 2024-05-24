@@ -1,2 +1,2 @@
-# zeynepaltindis
+# YetGen Core Python
 deneme

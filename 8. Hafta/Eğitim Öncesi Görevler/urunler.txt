@@ -1,3 +1,0 @@
-Ürün Adı: elma, Fiyat: 111
-Ürün Adı: kayısı, Fiyat: 333
-Ürün Adı: kayısı, Fiyat: 333
